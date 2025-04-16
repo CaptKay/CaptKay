@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Kingsley Kanu
-- 👀 I’m interested in developing myself to the extent of implementing anything I could ever think of.
-- 🌱 I’m always perfecting Java and C# core programming.
-- 🛠️ I'm still breaking codes as always with pleasure. #RegressionExpert
-- 💞️ I’m looking forward to collaborations on open source projects
-- 📫 How to reach me on suge.kanu@gmail.com
+## 👋 Hey, I'm Kingsley Kanu
+
+💻 A passionate **JavaScript/TypeScript developer** turning bold ideas into reality with clean, scalable code.  
+🌍 I believe *if I can imagine it, I can build it* — one project at a time.  
+🧠 While I've sharpened my skills in **Java** and **C#**, my main focus is now on **JS/TS** and full-stack development.  
+🧪 Code whisperer with a love for **regression testing** — breaking things just to rebuild them better.  
+🔧 Always experimenting with tools, refining workflows, and learning through building.  
+🤝 Open to **open-source collaborations**, code jams, and team-up builds. Let's create something awesome together.  
+📬 Reach me at **suge.kanu@gmail.com**
+
+---
+
+### 📌 Pinned Projects (Ideas)
+
+- **🧠 DevMind** – A TypeScript-based productivity tool for devs to track ideas and micro-projects.  
+- **🔁 RegressionBuddy** – A lightweight testing utility for catching sneaky bugs before they go live.  
+- **🕹️ CodeBreakerJS** – A JavaScript playground that breaks and fixes algorithms for fun and learning.
+
+Let’s connect, collab, and create. 🚀
 
 <!---
 CaptKay/CaptKay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
