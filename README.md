@@ -6,7 +6,7 @@
 🧪 Code whisperer with a love for **regression testing** — breaking things just to rebuild them better.  
 🔧 Always experimenting with tools, refining workflows, and learning through building.  
 🤝 Open to **open-source collaborations**, code jams, and team-up builds. Let's create something awesome together.  
-📬 Reach me at **kingsley.kanu@oak-techx.com**
+📬 Reach me at **suge.kanu@gmail.com**
 
 ---
 
