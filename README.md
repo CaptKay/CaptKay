@@ -2,11 +2,11 @@
 
 💻 A passionate **JavaScript/TypeScript developer** turning bold ideas into reality with clean, scalable code.  
 🌍 I believe *if I can imagine it, I can build it* — one project at a time.  
-🧠 While I've sharpened my skills in **Java** and **C#**, my main focus is now on **JS/TS** and full-stack development.  
+🧠 While still sharpening my skills in **Java** and **C#**, my main focus is now on **JS/TS** and full-stack development.  
 🧪 Code whisperer with a love for **regression testing** — breaking things just to rebuild them better.  
 🔧 Always experimenting with tools, refining workflows, and learning through building.  
 🤝 Open to **open-source collaborations**, code jams, and team-up builds. Let's create something awesome together.  
-📬 Reach me at **suge.kanu@gmail.com**
+📬 Reach me at **kingsley.kanu@oak-techx.com**
 
 ---
 
