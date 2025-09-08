@@ -1,24 +1,35 @@
-## 👋 Hey, I'm Kingsley Kanu
+# 👋 Hey, I'm Kingsley Kanu  
 
-💻 A passionate **JavaScript/TypeScript developer** turning bold ideas into reality with clean, scalable code.  
-🌍 I believe *if I can imagine it, I can build it* — one project at a time.  
-🧠 While still sharpening my skills in **Java** and **C#**, my main focus is now on **JS/TS** and full-stack development.  
-🧪 Code whisperer with a love for **regression testing** — breaking things just to rebuild them better.  
-🔧 Always experimenting with tools, refining workflows, and learning through building.  
-🤝 Open to **open-source collaborations**, code jams, and team-up builds. Let's create something awesome together.  
-📬 Reach me at **suge.kanu@gmail.com**
+💻 **Fullstack JavaScript & TypeScript Developer** | MERN Stack | IronHack Bootcamp (Graduating Oct 2025)  
+
+I turn bold ideas into clean, scalable web apps. Currently focused on **React, Node.js, Express, MongoDB, and PostgreSQL** while completing the **IronHack Fullstack Web Development Bootcamp**.  
+
+🔑 **What I bring:**  
+- 🚀 Hands-on with **JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL**  
+- 🧪 Strong foundation in **testing & automation (ISTQB® Certified)** → writing reliable, maintainable code  
+- ☁️ Practical exposure to **Docker & CI/CD** (personal projects)  
+- 🌍 Passion for **SaaS platforms, multi-tenant systems, and scalable apps**  
 
 ---
 
-### 📌 Pinned Projects (Ideas)
+## 📌 Current Focus
+- 🎓 **IronHack Bootcamp** – sharpening MERN/TS skills (finishing Oct 2025)  
+- 🛠 Building portfolio projects in MERN & TypeScript (to be released after graduation)  
+- 🤝 Open to **open-source collaborations, hackathons, and learning projects**  
 
-- **🧠 DevMind** – A TypeScript-based productivity tool for devs to track ideas and micro-projects.  
-- **🔁 RegressionBuddy** – A lightweight testing utility for catching sneaky bugs before they go live.  
-- **🕹️ CodeBreakerJS** – A JavaScript playground that breaks and fixes algorithms for fun and learning.
+---
 
-Let’s connect, collab, and create. 🚀
+## 📂 Planned Projects (Coming Soon)
+- **Association Management SaaS** – multi-tenant MERN platform for clubs & associations  
+- **E-Commerce Storefront** – MERN app with cart & Stripe checkout  
+- **Task Manager API** – Node.js + Express + TypeScript backend with JWT auth & PostgreSQL  
 
-<!---
-CaptKay/CaptKay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Let’s Connect  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kingsley-kanu-o)  
+- 📧 Email: suge.kanu@gmail.com  
+- 🐙 GitHub: [@CaptKay](https://github.com/CaptKay)  
+
+---
+✨ Always building, always learning. Let’s collaborate and create something awesome!
