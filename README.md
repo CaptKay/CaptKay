@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Kingsley Kanu  
 
-💻 **Fullstack JavaScript & TypeScript Developer** | MERN Stack | IronHack Bootcamp (Graduating Oct 2025)  
+💻 **Fullstack JavaScript & TypeScript Developer** | MERN/MEAN Stack
 
-I turn bold ideas into clean, scalable web apps. Currently focused on **React, Node.js, Express, MongoDB, and PostgreSQL** while completing the **IronHack Fullstack Web Development Bootcamp**.  
+I turn bold ideas into clean, scalable web apps. Currently focused on **React,**Angular, Node.js, Express, MongoDB, and PostgreSQL** while completing the **IronHack Fullstack Web Development Bootcamp**.  
 
 🔑 **What I bring:**  
 - 🚀 Hands-on with **JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL**  
@@ -13,8 +13,8 @@ I turn bold ideas into clean, scalable web apps. Currently focused on **React, N
 ---
 
 ## 📌 Current Focus
-- 🎓 **IronHack Bootcamp** – sharpening MERN/TS skills (finishing Oct 2025)  
-- 🛠 Building portfolio projects in MERN & TypeScript (to be released after graduation)  
+- 🎓 **Sharpening MERN/MEAN/Express/NestJs/TS skills
+- 🛠 Building portfolio projects in JavaScript & TypeScript Frameworks
 - 🤝 Open to **open-source collaborations, hackathons, and learning projects**  
 
 ---
