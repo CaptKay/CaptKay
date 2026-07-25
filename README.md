@@ -16,6 +16,3 @@
 - 🌐 **[iamkay.eu](https://www.iamkay.eu)** (I write about running production infrastructure: the failures, the fixes, and the tradeoffs)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kingsley-kanu-o) · 🏢 [Oak Techx](https://www.oak-techx.com)
 - 📧 suge.kanu@gmail.com
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptKay&show_icons=true&hide_border=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptKay&layout=compact&hide_border=true&theme=dark)
